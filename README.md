@@ -36,7 +36,7 @@ Grab a license at https://bannerops.net
 
 ## Community
 
-Got a question or found a bug? Come say hi on Discord: https://discord.gg/your-invite
+Got a question or found a bug? Come say hi on Discord: https://discord.gg/kFxkTCmx9E
 
 ## License
 
