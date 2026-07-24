@@ -1,0 +1,22 @@
+# Example Mount & Blade II: Bannerlord dedicated server config.
+#
+# BannerOps reads a file like this. Every non-comment line is a server
+# console command: the command name, then its argument(s).
+# Copy this to server.txt and edit the values for your server.
+
+ServerName          My Bannerlord Server
+GameType            Siege
+MaxNumberOfPlayers  120
+AdminPassword       change-me-to-a-strong-password
+WelcomeMessage      Welcome to the server
+CultureTeam1        vlandia
+CultureTeam2        battania
+
+# Automated map rotation
+add_map_to_automated_battle_pool mp_siege_map_001
+add_map_to_automated_battle_pool mp_siege_map_002
+enable_automated_battle_switching
+set_automated_battle_count 3
+
+# Start the game and load the first mission
+start_game_and_mission
