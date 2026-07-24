@@ -28,10 +28,6 @@ cd bannerops
 
 On Windows, extract the zip and run `bo.exe` instead. Then open http://localhost:8088 in your browser.
 
-## Pricing
-
-BannerOps is a paid product with two plans: $19.99/mo for up to 5 servers, and $39.99/mo for unlimited servers with white-label and API access. A license key activates your plan; the same binary is used either way.
-
 Grab a license at https://bannerops.net
 
 ## Community
